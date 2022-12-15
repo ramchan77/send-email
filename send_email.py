@@ -4,7 +4,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.base import MIMEBase
 from email import encoders
 
-email_user = 'ram.chan7796@gmail.com'
+email_user = 'email'
 email_password = '**********'
 email_send = raw_input('Email : ')
 
